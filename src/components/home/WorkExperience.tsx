@@ -87,7 +87,6 @@ export default function WorkExperience() {
             </div>
             <span className="left-1/2 top-1/2 size-4 -translate-x-1/2 -translate-y-1/2 rounded-full bg-primary border-zinc-950 border-4 border-solid absolute" />
           </div>
-
         </div>
       </div>
     </section>
